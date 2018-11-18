@@ -1,0 +1,37 @@
+{
+	"name": "copy-translator",
+	"version": "0.1.0",
+	"description": "Copy text and see translated it in notification.",
+	"main": "./index.js",
+	"bin": "./index.js",
+	"scripts": {},
+	"license": "MIT",
+	"dependencies": {
+		"clipboardy": "^1.2.3",
+		"command-line-args": "^5.0.2",
+		"node-notifier": "^5.2.1",
+		"translate-google": "^1.2.1"
+	},
+	"keywords": [
+		"copy",
+		"clipboard",
+		"translate",
+		"notification",
+		"easy&lite",
+		"cross platform",
+		"linux",
+		"macOS",
+		"windows"
+	],
+	"author": "Filip Paulů <ing.fenix@seznam.cz>",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ingSlonik/memory-usage-checker.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ingSlonik/memory-usage-checker/issues"
+	},
+	"engines": {
+		"node": ">=8"
+	}
+}
