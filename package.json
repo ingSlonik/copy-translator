@@ -1,6 +1,6 @@
 {
 	"name": "copy-translator",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Copy text and see translated it in notification.",
 	"main": "./index.js",
 	"bin": "./index.js",
@@ -26,10 +26,10 @@
 	"author": "Filip Paulů <ing.fenix@seznam.cz>",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ingSlonik/memory-usage-checker.git"
+		"url": "git+https://github.com/ingSlonik/copy-translator.git"
 	},
 	"bugs": {
-		"url": "https://github.com/ingSlonik/memory-usage-checker/issues"
+		"url": "https://github.com/ingSlonik/copy-translator/issues"
 	},
 	"engines": {
 		"node": ">=8"
